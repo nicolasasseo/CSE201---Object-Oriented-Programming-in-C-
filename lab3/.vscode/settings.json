@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.scss": "scss",
+    "monster.h": "c",
+    "stdio.h": "c"
+  },
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/home/nicow/cse201/lab3",
+      "binaryPath": "/home/nicow/cse201/lab3/army-pokemon",
+      "binaryArgs": []
+    }
+  ]
+}
